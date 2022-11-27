@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nike Adapt BB 2.0",
+      "description": "Nunc ullamco tincidunt ullamcorper pariatur quaerat. Nobis aptent semper laoreet. Placerat alias delectus? Non atque accusantium, sociis iste eius orci.",
+      "price": 100,
+      "quantity": 1,
+      "image": "https://api.lorem.space/image/shoes?w=150&h=150"
+    },
+    {
+      "id": 2,
+      "name": "Nike Air",
+      "description": "Nunc ullamco tincidunt ullamcorper pariatur quaerat. Nobis aptent semper laoreet. Placerat alias delectus? Non atque accusantium, sociis iste eius orci.",
+      "price": 200,
+      "quantity": 2,
+      "image": "https://api.lorem.space/image/shoes?w=150&h=150"
+    },
+    {
+      "name": "Reebok",
+      "description": "Reebok",
+      "price": "45.50",
+      "quantity": "10",
+      "image": "https://api.lorem.space/image/shoes?w=150&h=150",
+      "id": 4
+    }
+  ]
+}
